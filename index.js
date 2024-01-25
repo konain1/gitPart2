@@ -4,3 +4,5 @@
  let c = 40
  let aplle ='seb'
  let pineapple = 'aranaras'
+
+ let potato = 'aalo'
