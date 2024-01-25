@@ -6,3 +6,5 @@
  let pineapple = 'aranaras'
 
  let potato = 'aalo'
+
+ let angoor = 'grapes'
